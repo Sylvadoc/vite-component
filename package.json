@@ -1,5 +1,5 @@
 {
-    "name": "vite-component",
+    "name": "@sylvadoc/vite-component",
     "version": "1.0.0",
     "description": "test vite component",
     "main": "dist/library.js",
